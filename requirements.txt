@@ -1,0 +1,3 @@
+# Python requirements
+requests>=2.25.1
+flask>=2.0.0
